@@ -9,11 +9,11 @@ import matplotlib.pyplot as plt
 def convolution(I, W):
 	rows, cols = I.shape[0]-W.shape[0]+1, I.shape[1]-W.shape[1]+1
 	output = np.zeros((rows, cols))
-	corresponding_weights = np.zeros((rows, cols, 2, 2))  # 存储对应I中元素为1的位置的W的元素
+	corresponding_weights = np.zeros((rows, cols, 2, 2))
 	for i in range(rows):
 		for j in range(cols):
 			output[i, j] = np.sum(I[i:i+2, j:j+2]*W)
-			corresponding_weights[i, j] = W*(I[i:i+2, j:j+2]==1)  # 这里使用了element-wise multiplication
+			corresponding_weights[i, j] = W*(I[i:i+2, j:j+2]==1)
 	return output, corresponding_weights
 
 def max_value_and_weights(I, W):
@@ -21,7 +21,7 @@ def max_value_and_weights(I, W):
 	max_value = np.max(conv)
 	max_location = np.unravel_index(conv.argmax(), conv.shape)
 	corresponding_weights = weights_array[max_location]
-	corresponding_weights = corresponding_weights[corresponding_weights != 0]  # 返回对应I中元素为1的位置的W的元素
+	corresponding_weights = corresponding_weights[corresponding_weights != 0]
 	return max_value, corresponding_weights, max_location
 
 def main(I_array, W):
@@ -55,20 +55,16 @@ def main(I_array, W):
 
 	
 def generate_I():
-	# 生成所有的9位二进制数字，从000000000到111111111
 	for bits in product([0, 1], repeat=9):
-		# 将9位二进制数字转换为3x3矩阵
 		yield np.array(bits).reshape(3, 3)
 		
 def generate_kernel():
-	matrix_values = [1, 0.5, -0.5, -1]  # matrix的值
-	matrices_str = set()  # 用于保存matrix的字符串形式
+	matrix_values = [1, 0.5, -0.5, -1]
+	matrices_str = set()
 	
-	# 生成所有可能的排列
 	for perm in permutations(matrix_values):
 		matrices_str.add(str(perm))
 		
-	# 将字符串形式的matrix转回matrix
 	for matrix_str in matrices_str:
 		matrix = np.array(eval(matrix_str)).reshape(2, 2)
 		yield matrix
@@ -83,5 +79,5 @@ for W in generate_kernel():
 
 
 results = main(I_array, W_array[0])
-#for result in results:
-#	print(f'{result[1]}')
+for result in results:
+	print(f'{result[1]}')
