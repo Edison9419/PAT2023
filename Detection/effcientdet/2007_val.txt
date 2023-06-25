@@ -1,0 +1,502 @@
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008636.jpg 15,133,360,375,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008953.jpg 1,47,191,316,14 163,266,222,360,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007150.jpg 277,67,498,374,14 225,75,348,277,14 79,195,499,374,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005135.jpg 3,146,58,302,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004760.jpg 210,114,495,375,11 1,1,177,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006107.jpg 53,116,500,327,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008203.jpg 331,148,426,247,17 38,188,304,360,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008874.jpg 89,166,148,220,19 105,173,383,315,17 246,232,500,375,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005576.jpg 19,73,484,103,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001346.jpg 309,97,356,229,4 220,4,447,229,14 7,1,262,228,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001854.jpg 52,38,277,499,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008067.jpg 132,163,349,330,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005784.jpg 130,114,417,243,8 6,22,410,278,14 7,106,494,438,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005274.jpg 282,103,435,358,11 170,229,277,341,11 102,62,422,344,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003110.jpg 213,127,275,266,11 121,107,188,234,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001899.jpg 397,195,478,243,6 298,195,335,227,6 108,212,147,238,6 22,209,48,226,6 167,206,225,289,13 174,177,225,267,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004655.jpg 441,181,493,244,8 61,211,142,273,8 169,199,240,262,8 200,272,403,346,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002783.jpg 281,295,338,354,5
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003466.jpg 177,15,445,283,14 1,100,43,174,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004849.jpg 143,191,250,281,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008840.jpg 139,2,425,258,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001002.jpg 199,384,375,483,3 102,366,213,416,3 22,341,103,396,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009497.jpg 97,106,299,374,14 178,80,319,255,14 403,316,417,361,4 360,312,377,354,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007968.jpg 132,1,341,287,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000427.jpg 39,24,386,275,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006458.jpg 196,62,493,271,6 26,110,235,265,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004605.jpg 93,121,352,325,1 411,7,500,139,1 158,29,292,315,14 444,36,500,332,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000874.jpg 2,2,387,332,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002569.jpg 33,23,353,482,15 1,72,52,417,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001316.jpg 150,61,500,374,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003146.jpg 43,153,214,319,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009303.jpg 416,9,471,69,14 193,6,266,85,14 9,5,135,99,14 159,18,197,60,14 256,17,310,83,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006374.jpg 157,127,412,279,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004421.jpg 168,358,260,500,8 30,272,63,388,8 58,268,143,412,8 2,292,78,474,8 64,280,271,412,10 235,383,375,500,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007274.jpg 1,108,497,264,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001881.jpg 62,77,456,357,6 1,77,117,203,6 381,76,495,120,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000257.jpg 82,1,183,57,19 20,142,222,375,14 175,68,472,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001843.jpg 299,185,323,276,4 252,35,445,375,14 62,17,273,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008796.jpg 189,155,289,203,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003004.jpg 19,105,500,332,17 407,62,467,153,8 454,52,500,141,8 377,18,428,59,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006658.jpg 119,158,382,345,10 160,99,204,186,14 200,104,264,205,14 259,102,327,209,14 304,117,387,219,14 362,131,415,222,14 288,145,490,375,14 1,96,71,269,14 39,86,137,239,14 79,121,297,372,14 1,215,72,373,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002415.jpg 3,1,331,500,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004315.jpg 135,150,265,357,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003845.jpg 1,26,500,355,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000275.jpg 204,50,339,301,14 57,109,418,433,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007422.jpg 116,135,398,284,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007873.jpg 1,153,487,360,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006314.jpg 103,114,354,373,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000918.jpg 18,15,333,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005405.jpg 71,151,276,401,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008983.jpg 393,45,496,201,14 305,28,384,83,14 224,11,302,90,14 79,31,211,137,14 5,52,139,203,14 102,84,422,203,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000232.jpg 47,92,376,334,9 230,32,252,93,14 404,71,500,119,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004105.jpg 93,271,164,375,8 2,277,93,375,8 205,271,296,375,8 164,304,281,375,8 316,271,401,368,8 341,312,491,374,8 192,245,313,307,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009858.jpg 93,177,283,226,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007159.jpg 435,151,500,210,6 146,155,177,282,14 36,154,68,289,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008670.jpg 56,115,254,263,2 60,279,252,397,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003586.jpg 2,1,247,188,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003780.jpg 104,167,185,232,19 280,218,365,346,19 90,202,207,375,14 2,91,111,350,14 68,312,207,481,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000834.jpg 304,85,369,125,9 10,96,100,154,9 69,123,177,174,9 98,245,390,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006475.jpg 137,379,259,500,2 143,8,332,436,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002803.jpg 225,154,375,312,8 107,145,263,294,8 376,109,443,183,8 312,107,390,151,8 196,109,288,159,8 146,114,208,170,8 302,85,333,125,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008926.jpg 231,98,370,313,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009330.jpg 94,147,291,375,14 181,22,500,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006797.jpg 181,65,384,374,14 1,46,242,371,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002384.jpg 43,64,298,368,14 210,110,442,369,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009721.jpg 91,174,278,424,8 25,150,245,474,14 1,72,113,399,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006838.jpg 230,35,500,332,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004012.jpg 53,120,294,500,14 66,226,229,472,14 1,113,375,500,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001630.jpg 26,14,54,114,14 190,27,268,214,14 74,95,200,358,14 155,196,343,500,14 333,32,373,255,14 85,231,200,428,1 149,358,340,500,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009709.jpg 257,1,375,498,4 132,2,271,495,4 1,1,141,489,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006238.jpg 278,112,404,224,19 258,1,358,139,14 40,11,317,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008374.jpg 258,223,320,294,19 323,216,403,288,19 185,181,271,375,14 292,202,369,373,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003663.jpg 1,43,302,282,14 298,85,500,278,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002067.jpg 172,40,398,321,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000146.jpg 155,208,252,408,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004033.jpg 70,7,120,138,14 120,36,217,168,13 183,2,326,196,13 189,1,447,280,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004376.jpg 111,16,500,374,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004390.jpg 10,89,493,230,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005081.jpg 227,137,440,266,12 171,115,195,150,11 114,65,210,222,14 440,30,469,104,14 414,29,430,97,14 335,32,359,104,14 266,53,294,124,14 259,35,279,116,14 238,61,253,99,14 208,61,231,119,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008886.jpg 11,1,229,201,12 167,2,241,172,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001187.jpg 21,410,230,500,8 185,363,366,500,8 107,270,360,396,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007963.jpg 285,291,304,337,14 263,293,284,335,14 457,230,500,248,6 1,322,80,375,6 1,200,470,334,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009913.jpg 40,82,447,261,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005554.jpg 316,157,427,284,1 207,171,341,324,1 24,163,210,330,1 61,72,235,302,14 225,91,355,277,14 343,86,445,283,14 398,6,428,42,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006455.jpg 85,42,254,199,12 119,11,167,137,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003023.jpg 29,76,254,500,14 2,245,117,453,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007241.jpg 7,71,479,365,5
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003343.jpg 167,82,407,333,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008521.jpg 76,2,381,375,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008794.jpg 1,107,46,254,14 41,149,97,250,14 125,143,170,172,14 184,137,208,166,14 224,97,249,124,14 355,131,383,166,14 420,78,447,135,14 81,96,500,312,6 272,64,310,108,14 242,67,270,113,14 203,64,240,149,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009035.jpg 1,1,333,482,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009767.jpg 103,114,260,500,12 90,51,219,361,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005318.jpg 109,37,421,291,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009773.jpg 188,71,288,245,14 205,127,375,311,8 453,131,500,197,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000180.jpg 14,110,496,356,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009596.jpg 1,143,112,236,13 164,114,291,219,13 323,113,382,196,13 312,102,342,166,13 201,70,262,191,14 233,65,281,116,14 323,69,386,181,14 374,72,419,163,14 305,48,323,86,14 14,41,54,76,6 118,47,137,64,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005175.jpg 25,198,207,267,0 195,196,337,256,0 330,206,429,247,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004570.jpg 3,3,370,245,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006430.jpg 274,163,293,224,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008385.jpg 1,378,327,500,10 104,196,305,454,14 269,318,354,500,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009685.jpg 53,147,488,357,5
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001522.jpg 309,46,377,241,4 217,100,272,247,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003627.jpg 135,1,365,333,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006079.jpg 164,153,332,213,3 68,51,103,68,6 30,57,68,71,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007214.jpg 30,351,113,491,11 84,132,209,499,14 183,105,336,498,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007075.jpg 1,89,153,224,9 131,96,274,314,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004662.jpg 3,179,223,473,12 185,122,290,451,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006140.jpg 181,189,495,333,10 275,149,338,220,14 344,153,408,241,14 387,147,500,291,14 5,3,205,333,14 178,95,241,190,14 72,54,183,204,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002958.jpg 65,2,500,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003045.jpg 153,54,500,248,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002520.jpg 209,186,257,283,12 331,167,382,285,14 440,181,468,285,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003539.jpg 78,149,213,349,13 298,144,417,341,13 422,123,493,231,13 294,75,432,316,14 82,64,226,327,14 412,78,461,201,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003391.jpg 120,223,187,375,14 77,278,263,375,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005222.jpg 2,27,100,231,7 242,28,500,309,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009796.jpg 285,78,408,368,14 182,99,322,375,14 104,85,351,233,14 76,92,200,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008216.jpg 280,276,315,407,15 217,322,242,365,15 201,409,270,500,8 263,422,333,500,8 227,407,374,500,10 88,308,154,500,14 158,302,197,351,14 153,321,205,479,14 46,305,68,387,14 66,312,85,385,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009059.jpg 97,85,314,187,5
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006532.jpg 116,156,412,288,13 205,124,331,223,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009063.jpg 48,149,181,189,0 260,124,392,176,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003784.jpg 32,232,311,407,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006349.jpg 5,36,495,256,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007250.jpg 281,227,311,330,4 122,19,327,176,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002102.jpg 36,57,486,261,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008813.jpg 189,103,356,244,2 318,29,479,368,14 1,1,101,375,14 426,156,500,255,14 259,166,495,375,14 176,132,262,363,14 100,93,135,160,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002215.jpg 353,44,497,227,7 251,43,370,219,7 134,8,267,206,7 28,11,125,152,7 13,55,174,258,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005186.jpg 139,173,210,293,8 408,181,467,269,8 32,165,129,301,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002256.jpg 327,195,500,373,5 243,245,323,322,5 197,301,217,351,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002377.jpg 91,123,500,375,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005905.jpg 194,2,359,283,14 2,2,246,283,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007923.jpg 397,106,450,179,8 189,104,309,189,17 135,147,353,235,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001755.jpg 61,17,500,333,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003645.jpg 256,127,288,182,12 171,114,204,178,14 257,106,288,160,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007245.jpg 164,118,500,317,11 3,26,447,353,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009162.jpg 220,64,461,331,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004493.jpg 355,61,404,194,4 1,95,500,375,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005738.jpg 58,92,378,270,6 1,103,107,231,6 227,85,247,102,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003879.jpg 312,57,401,325,14 241,64,330,334,14 211,63,257,335,14 167,89,240,347,14 86,73,191,326,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000900.jpg 260,135,342,269,16 150,172,215,269,16 101,170,188,252,16
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006551.jpg 260,198,362,311,1 226,183,319,273,1 104,181,216,287,1 107,110,199,269,14 227,126,286,207,14 261,125,355,269,14 5,96,32,148,14 31,100,64,150,14 63,98,89,148,14 13,125,80,235,14 61,135,111,231,14 95,129,128,177,14 334,111,368,153,14 370,110,395,153,14 390,108,425,227,14 423,117,450,155,14 447,116,496,225,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009946.jpg 181,177,198,221,14 199,180,238,257,14 193,142,499,337,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006931.jpg 24,277,312,430,6 1,243,50,285,6 91,197,143,218,6 125,197,184,215,6 181,196,235,215,6 221,194,263,216,6 244,196,296,217,6 287,186,333,219,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005085.jpg 118,334,293,482,10 220,348,348,500,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009068.jpg 131,217,293,337,8 5,232,77,299,8 284,160,437,335,14 1,205,283,344,14 320,181,369,240,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007234.jpg 85,35,224,189,12 113,23,188,118,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008468.jpg 51,122,172,197,17 217,155,314,227,8 243,128,293,169,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003695.jpg 1,145,480,283,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006221.jpg 1,75,344,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002658.jpg 163,92,189,202,4 103,8,147,115,15 146,11,183,118,15 181,43,234,117,15 274,3,472,324,14 56,181,387,333,10 279,100,466,302,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009484.jpg 163,223,265,321,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002306.jpg 20,56,141,346,14 148,103,211,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009938.jpg 137,55,320,340,13 242,1,325,52,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009842.jpg 180,1,401,332,16
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003386.jpg 1,76,500,281,0 26,52,47,102,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004836.jpg 1,147,474,446,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009408.jpg 58,92,227,284,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001093.jpg 52,55,479,371,6 109,39,178,64,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007133.jpg 4,111,375,372,6 20,135,167,192,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002775.jpg 266,159,375,500,15 121,346,295,500,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009718.jpg 2,194,297,252,18 362,315,408,344,6 162,337,240,372,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008222.jpg 49,98,276,422,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003034.jpg 301,174,466,375,8 305,201,429,331,14 40,97,259,307,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008723.jpg 5,66,468,252,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009524.jpg 316,84,376,193,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000459.jpg 26,86,500,332,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004699.jpg 319,33,500,322,15 379,303,417,360,14 337,295,382,354,14 186,257,224,309,14 52,308,71,331,14 38,309,56,335,14 63,307,82,329,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000448.jpg 123,129,465,375,10 229,57,314,167,14 171,85,221,152,14 88,71,142,112,14 11,124,190,375,14 47,92,225,286,14 5,72,51,182,14 251,65,357,188,14 335,81,422,217,14 345,107,500,338,14 279,226,433,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004178.jpg 80,98,309,298,11 282,77,500,267,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009455.jpg 125,2,500,334,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006628.jpg 64,128,113,155,8 157,124,190,171,8 172,137,209,182,8 213,144,252,195,8 249,161,291,216,8 133,207,271,375,8 17,179,152,373,8 48,150,216,375,10 386,104,429,140,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006699.jpg 38,3,375,274,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005352.jpg 137,97,237,291,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007544.jpg 294,109,341,142,19 340,163,482,311,8 190,188,274,344,8 124,190,192,347,8 54,206,132,372,8 2,201,225,311,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000598.jpg 291,230,419,344,19 173,201,259,315,8 87,146,154,193,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009830.jpg 43,18,401,315,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006939.jpg 217,2,500,375,14 1,32,229,375,14 115,78,132,148,4 130,73,150,149,4 147,71,171,149,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006878.jpg 262,211,500,322,17 1,204,296,375,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001052.jpg 65,101,431,281,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006341.jpg 39,87,347,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008911.jpg 205,30,354,234,5 269,1,450,39,5 319,21,452,91,6 73,29,247,92,6 2,49,122,121,6 45,146,247,270,6 136,107,158,150,14 59,206,101,312,14 15,188,46,294,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002490.jpg 206,137,287,247,5 1,134,147,340,5 139,207,188,287,6 168,209,222,266,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004429.jpg 11,118,496,336,6 71,8,220,124,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005365.jpg 54,2,429,345,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009333.jpg 100,86,312,238,19 207,202,352,268,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004047.jpg 2,103,122,352,8 37,83,189,373,8 151,91,398,471,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009429.jpg 205,197,316,240,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006166.jpg 125,122,312,340,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002099.jpg 1,92,500,331,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002419.jpg 113,106,379,262,13 160,56,277,215,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006694.jpg 100,52,500,248,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008588.jpg 289,237,312,282,2 319,200,370,220,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008769.jpg 221,24,500,373,14 9,53,286,373,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005693.jpg 186,70,375,500,14 1,8,152,500,14 105,227,230,446,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008929.jpg 1,57,441,240,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005379.jpg 34,92,346,232,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009214.jpg 180,114,314,226,1 146,223,468,375,6 107,198,142,309,14 72,206,103,308,14 38,210,72,312,14 466,188,500,286,14 1,212,20,313,14 140,218,159,255,14 226,82,311,194,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001772.jpg 246,195,306,294,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004169.jpg 1,22,324,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002011.jpg 26,88,498,351,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006301.jpg 408,308,453,326,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006943.jpg 121,82,310,297,18 284,78,500,313,18 64,159,88,231,14 2,135,58,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002670.jpg 22,143,374,429,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006240.jpg 1,14,350,467,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005914.jpg 422,226,486,273,3 243,227,360,264,3 2,227,233,296,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003420.jpg 25,216,121,266,6 111,219,203,264,6 178,219,270,262,6 242,223,333,260,6 293,226,380,261,6 351,230,429,261,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004565.jpg 3,133,390,497,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000048.jpg 58,107,291,465,2 2,1,302,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002112.jpg 136,2,375,500,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007336.jpg 46,189,149,472,14 226,203,325,478,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001714.jpg 127,302,208,357,16
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007454.jpg 179,56,500,314,7 18,43,393,361,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006786.jpg 82,1,324,358,14 296,24,451,328,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009537.jpg 129,161,150,201,14 8,10,500,221,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002374.jpg 126,143,312,241,5
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009800.jpg 128,261,177,313,2 285,190,378,460,14 402,161,500,460,14 1,154,62,460,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003996.jpg 321,11,500,375,14 118,2,407,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004020.jpg 265,51,371,188,14 204,61,230,114,14 2,102,118,233,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004498.jpg 126,159,215,284,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004647.jpg 83,121,298,332,13 275,57,371,312,14 115,53,213,213,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000244.jpg 116,202,157,230,16
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006499.jpg 1,89,320,304,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007527.jpg 28,372,60,404,6 237,377,316,425,6 284,390,355,428,6 313,390,443,431,6 210,389,240,416,6 182,380,233,417,6 133,382,177,411,6 108,381,149,408,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003484.jpg 468,35,493,78,14 464,29,500,159,14 450,43,475,93,14 405,30,433,120,14 49,65,491,323,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006670.jpg 33,181,410,465,18 432,300,474,426,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000061.jpg 274,11,437,279,3 184,214,281,252,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003365.jpg 118,108,450,197,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001952.jpg 26,26,475,372,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005614.jpg 58,192,281,277,3 210,72,334,237,3 314,194,413,230,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005124.jpg 179,68,500,324,9 3,33,271,324,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007991.jpg 3,99,500,375,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003759.jpg 105,129,226,375,14 202,142,279,375,14 254,136,426,375,14 393,189,474,290,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006371.jpg 16,23,485,307,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006654.jpg 1,8,157,140,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006026.jpg 214,93,479,207,7 2,114,293,375,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008890.jpg 110,154,358,249,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006409.jpg 304,98,500,375,14 1,128,114,264,14 167,178,193,241,4 8,227,376,375,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009307.jpg 7,13,400,367,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007724.jpg 64,35,407,348,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006209.jpg 358,185,441,268,19 147,167,355,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000503.jpg 373,142,500,374,17 14,146,137,361,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009456.jpg 227,207,458,375,1 2,142,111,275,1 26,78,104,290,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005407.jpg 157,234,182,266,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003380.jpg 8,85,248,375,14 245,27,500,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009099.jpg 146,128,286,334,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008368.jpg 174,57,433,332,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006869.jpg 167,111,493,273,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000786.jpg 84,95,292,289,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004121.jpg 19,154,108,263,15 220,92,347,242,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000977.jpg 149,271,179,295,6 36,262,94,309,6 178,245,263,319,6 258,266,293,296,6 321,253,397,333,6 327,259,454,332,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002561.jpg 185,58,292,169,19 44,291,300,375,8 322,71,500,375,14 86,80,299,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000690.jpg 1,188,247,361,1 281,111,336,229,7 226,87,336,371,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002858.jpg 68,79,292,480,12 160,33,277,348,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000035.jpg 1,96,191,361,14 218,98,465,318,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001836.jpg 2,81,462,375,17 57,78,320,365,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008837.jpg 1,80,74,373,19 66,33,437,373,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001161.jpg 56,1,500,375,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008936.jpg 92,214,210,341,8 29,199,121,306,8 206,174,257,238,8 247,197,320,278,8 372,174,419,223,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000382.jpg 3,167,163,500,3 100,265,119,298,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006755.jpg 2,169,213,375,8 169,46,240,117,15 265,152,341,223,19 340,146,416,254,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001593.jpg 125,128,276,433,14 195,336,382,500,14 264,259,339,355,14 315,242,412,424,14 17,238,128,410,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001928.jpg 7,82,404,419,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005420.jpg 32,22,395,464,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002693.jpg 144,133,397,322,6 46,56,132,303,14 364,136,440,236,14 34,79,55,157,14 1,80,34,161,14 1,124,185,209,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001514.jpg 12,52,312,333,14 219,131,467,332,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005841.jpg 23,219,212,461,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004913.jpg 274,97,323,335,14 217,126,335,340,14 133,178,227,358,14 390,82,493,291,14 281,38,337,128,14 70,50,138,138,14 1,105,92,351,14 69,110,157,357,14 175,124,236,304,14 125,52,205,187,14 201,67,282,172,14 310,75,374,209,14 362,60,426,218,14 306,206,394,352,14 388,190,487,356,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009326.jpg 101,109,314,211,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005176.jpg 161,165,234,255,14 1,46,274,375,14 270,92,500,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008320.jpg 1,8,245,198,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008359.jpg 353,43,477,184,6 21,36,364,343,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004291.jpg 3,1,374,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009242.jpg 76,97,485,261,17 266,82,424,214,14 109,93,240,228,14 171,173,192,232,4 51,161,89,245,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001286.jpg 32,124,489,331,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008250.jpg 246,157,343,305,13 119,188,261,308,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007351.jpg 104,103,144,234,4 167,176,189,243,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003134.jpg 64,86,184,317,14 160,72,300,284,14 270,1,483,366,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006704.jpg 34,1,341,213,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007840.jpg 11,33,268,486,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000808.jpg 77,1,415,333,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003228.jpg 305,104,394,183,6 453,112,482,175,14 11,227,80,325,11 2,37,217,200,5 205,84,295,162,5
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007754.jpg 377,112,477,254,19 276,130,345,241,19 263,36,316,92,19 82,92,169,229,8 131,71,246,232,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006803.jpg 68,167,311,356,18 305,323,333,412,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007263.jpg 276,160,319,204,19 44,167,161,291,8 157,201,486,358,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009597.jpg 43,102,460,282,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004017.jpg 237,1,450,217,15 10,4,450,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008492.jpg 153,69,496,243,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000754.jpg 56,81,157,170,5 94,124,150,158,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004814.jpg 1,33,500,265,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006235.jpg 351,251,481,308,6 222,251,362,308,6 131,257,246,307,6 41,259,157,305,6 10,239,91,300,6 443,230,464,262,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004085.jpg 58,145,228,217,11 387,102,500,321,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009908.jpg 107,110,253,268,9 277,160,317,180,2 146,70,181,119,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005039.jpg 116,121,309,375,14 1,128,107,375,14 295,131,472,373,14 461,129,500,316,14 438,166,467,198,14 240,131,281,168,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000164.jpg 114,154,369,348,13 292,49,446,370,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008524.jpg 7,1,76,34,6 1,6,391,287,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002508.jpg 67,52,444,293,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001106.jpg 102,160,240,327,8 295,158,389,319,8 339,174,465,363,8 363,149,445,258,8 337,179,500,319,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008410.jpg 295,156,411,367,14 1,160,153,375,14 169,121,232,226,14 260,120,319,229,14 139,170,215,375,14 211,149,298,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006520.jpg 57,41,254,488,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005073.jpg 410,85,500,151,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009558.jpg 99,30,374,218,6 394,9,412,49,14 373,1,403,52,14 352,1,374,39,14 275,1,315,39,14 231,3,277,32,14 100,25,127,59,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004073.jpg 236,87,500,374,14 403,208,465,234,6 19,147,200,245,5
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009772.jpg 5,145,375,500,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003510.jpg 410,244,463,347,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004722.jpg 71,76,167,286,12 257,104,367,359,14 330,110,436,373,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008084.jpg 111,212,233,365,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006005.jpg 55,81,181,196,14 178,70,294,192,14 182,330,257,455,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000767.jpg 32,1,470,318,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004840.jpg 114,1,408,370,14 140,85,338,375,14 2,222,215,375,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004954.jpg 24,153,381,482,16 104,30,416,436,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008142.jpg 189,73,253,229,14 149,119,325,286,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009178.jpg 2,83,500,324,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007776.jpg 167,111,263,156,18 105,147,375,259,18 355,135,500,204,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008141.jpg 215,66,309,370,4 38,1,447,301,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006020.jpg 21,82,500,305,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002869.jpg 21,94,489,226,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006635.jpg 14,61,342,471,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004195.jpg 22,184,187,312,12 89,156,129,241,14 149,220,199,309,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004279.jpg 261,166,289,272,4 4,65,171,375,14 75,58,193,329,14 158,68,339,216,14 299,51,383,255,14 358,83,500,372,14 132,303,451,375,10 151,192,377,305,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003458.jpg 120,121,326,474,2 17,161,224,493,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003294.jpg 27,72,332,500,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000352.jpg 33,68,149,247,14 131,68,210,249,14 198,59,309,284,14 294,83,500,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005919.jpg 245,176,259,232,4 288,171,302,226,4 298,186,310,218,4 261,207,281,285,4 203,209,214,239,4 199,229,214,264,4 174,268,195,328,4 231,133,317,208,14 153,146,196,231,14 108,144,159,266,14 69,163,121,288,14 3,155,107,330,14 341,129,394,236,14 422,131,462,173,14 338,132,458,308,14 355,158,500,345,14 86,208,385,354,10 309,254,329,315,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009588.jpg 1,144,401,228,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004816.jpg 113,37,365,294,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009557.jpg 121,275,199,365,1 116,216,181,365,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004753.jpg 2,23,393,375,14 208,12,329,163,14 339,125,361,184,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001457.jpg 136,121,350,264,17 432,212,500,375,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006784.jpg 181,103,212,142,14 217,88,241,124,14 264,80,291,117,14 291,69,329,167,14 232,46,469,375,14 386,33,448,134,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002090.jpg 110,44,312,300,14 181,165,265,300,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009072.jpg 1,2,154,284,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003623.jpg 107,22,428,312,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007526.jpg 167,123,260,312,14 86,160,300,412,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000338.jpg 197,91,216,116,14 82,73,384,203,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006291.jpg 301,27,484,337,9 252,2,387,224,9 100,3,305,220,9 47,12,166,211,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008293.jpg 107,195,163,250,5 163,48,333,379,5 266,144,333,232,14 43,194,114,403,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009080.jpg 79,78,174,188,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000695.jpg 109,126,415,366,12 220,40,286,264,14 443,159,500,283,12 174,108,332,158,12 471,94,500,189,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004322.jpg 3,350,50,489,4 3,37,241,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007130.jpg 106,96,192,188,19 221,80,295,157,19 355,109,475,171,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005079.jpg 22,110,454,305,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003229.jpg 347,161,433,225,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001360.jpg 7,91,448,272,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009860.jpg 65,25,490,355,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005723.jpg 412,242,480,390,8 238,250,377,391,8 43,241,213,391,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001170.jpg 102,114,341,375,14 318,140,500,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007762.jpg 217,90,362,252,19 252,29,272,89,4 292,32,311,71,4 147,16,174,53,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000221.jpg 72,77,432,253,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001651.jpg 63,121,342,500,14 241,274,364,500,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005672.jpg 305,65,341,172,4 1,1,138,191,14 1,107,377,500,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008093.jpg 1,284,84,375,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009138.jpg 63,2,500,375,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007834.jpg 91,48,277,448,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002967.jpg 167,1,255,255,15 7,153,153,266,15 142,333,237,436,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004034.jpg 102,118,375,458,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003024.jpg 5,72,150,163,17 128,1,201,117,15 212,32,256,102,15 223,31,256,64,15 453,96,500,177,1 291,74,326,119,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008498.jpg 47,90,488,335,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003362.jpg 174,122,282,263,12 171,44,294,226,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005735.jpg 1,100,493,287,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006325.jpg 276,277,363,353,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007826.jpg 80,217,320,273,10 197,193,257,326,8 258,180,312,314,8 10,195,93,358,8 82,252,243,372,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004962.jpg 255,172,348,208,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008121.jpg 77,18,243,255,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005248.jpg 440,181,459,234,14 1,163,129,374,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001071.jpg 72,100,172,323,14 198,113,287,331,14 72,142,179,429,12 157,169,302,455,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006840.jpg 58,19,368,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005552.jpg 239,202,279,338,14 190,203,264,356,14 164,237,267,407,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001074.jpg 74,54,422,208,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008836.jpg 148,80,441,375,14 340,70,430,266,14 1,115,127,375,14 446,278,500,375,14 417,112,500,330,14 429,1,456,67,14 256,11,282,77,14 1,103,55,214,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008499.jpg 123,35,500,334,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009603.jpg 5,153,493,375,3 330,86,456,373,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003355.jpg 226,122,376,276,14 2,2,324,242,6 329,2,500,134,6 220,53,486,175,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005779.jpg 134,27,500,331,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005293.jpg 99,80,184,195,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000625.jpg 395,209,486,294,14 271,214,373,291,14 270,274,372,334,14 171,204,263,278,14 76,194,164,273,14 76,273,162,326,14 67,82,169,160,14 64,16,162,96,14 174,17,274,92,14 172,85,283,184,14 279,21,376,110,14 283,94,418,183,14 389,88,500,183,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009848.jpg 139,78,278,330,14 55,201,306,360,1 374,1,477,29,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007216.jpg 230,295,270,408,12 217,260,280,347,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001028.jpg 52,231,301,500,14 7,29,406,493,14 359,164,406,229,14 306,174,357,232,14 285,173,321,221,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009015.jpg 232,128,431,242,5 1,211,54,333,6 114,196,153,220,6 213,202,233,228,6 72,199,113,221,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008341.jpg 1,119,266,333,17 371,117,500,333,8 79,88,203,333,14 295,96,425,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001362.jpg 33,32,333,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001192.jpg 294,172,372,317,11 148,107,216,234,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009476.jpg 47,114,479,278,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001444.jpg 91,262,327,375,17 226,196,387,327,8 368,186,428,241,15 29,208,58,259,4 164,140,219,276,15 143,152,176,191,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003957.jpg 15,73,413,253,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005648.jpg 22,109,56,247,14 91,130,149,248,14 166,316,265,467,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004057.jpg 59,84,354,315,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006339.jpg 67,65,148,137,19 284,100,383,335,17 284,166,371,238,14 265,104,322,184,14 81,128,183,199,14 86,254,188,301,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008638.jpg 47,47,233,293,18 235,50,483,280,18 13,212,49,306,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004237.jpg 227,159,500,375,19 1,3,169,375,19 132,138,266,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009950.jpg 1,2,500,332,18 231,111,299,198,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000036.jpg 27,79,319,344,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007445.jpg 97,152,157,218,14 77,2,500,334,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009349.jpg 2,304,149,500,16 136,74,312,461,14 280,94,375,500,14 85,118,119,274,14 14,115,54,217,14 40,129,92,299,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005208.jpg 111,156,231,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000123.jpg 1,26,358,340,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006128.jpg 94,194,500,323,6 64,195,225,264,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009863.jpg 199,111,395,191,6 37,164,401,333,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005963.jpg 252,155,385,322,8 327,178,500,375,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008727.jpg 3,249,375,500,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003188.jpg 54,125,320,375,1 257,4,435,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003932.jpg 207,345,247,493,4 62,20,283,493,14 243,273,372,412,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008384.jpg 203,86,295,278,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003596.jpg 78,107,429,304,6 233,72,286,96,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000173.jpg 106,64,270,297,14 109,64,288,464,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008823.jpg 58,114,500,290,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005391.jpg 25,109,463,226,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000246.jpg 60,44,331,310,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009790.jpg 11,40,479,213,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007691.jpg 270,85,500,321,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006919.jpg 425,151,441,202,4 358,36,446,104,14 320,46,449,142,14 266,70,411,261,14 157,62,358,273,14 187,139,378,369,14 65,176,231,375,14 163,266,186,322,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009418.jpg 149,237,264,333,11 181,102,251,227,11 142,3,353,262,14 207,62,500,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000804.jpg 94,243,153,304,8 191,265,332,470,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000797.jpg 37,127,348,375,11 68,94,424,370,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001597.jpg 227,135,330,291,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007247.jpg 100,93,494,291,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007022.jpg 146,101,266,179,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006625.jpg 284,151,319,177,6 120,141,179,213,6 17,146,111,243,6 102,153,152,266,14 69,157,100,261,14 19,156,58,283,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005817.jpg 252,2,500,370,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007344.jpg 109,54,445,347,7 213,1,305,99,15 284,2,447,121,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000579.jpg 263,159,309,186,6 2,139,156,225,6 318,163,419,296,13 315,123,389,259,14 333,126,415,271,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006134.jpg 125,99,442,318,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005850.jpg 54,117,348,322,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008248.jpg 245,128,349,375,12 327,57,477,375,14 292,44,346,138,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002472.jpg 390,184,414,246,14 422,177,443,247,14 479,181,500,244,14 4,138,200,245,0 136,146,384,235,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005215.jpg 62,2,500,375,13
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002082.jpg 82,120,230,267,13 98,36,203,242,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001902.jpg 256,147,500,274,5 341,207,500,375,6 196,224,233,251,6 139,223,150,266,14 120,223,135,265,14 104,226,119,266,14 81,219,100,263,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008698.jpg 2,29,287,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006098.jpg 92,74,292,178,3 93,100,142,140,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006320.jpg 123,43,434,302,6 26,104,65,213,14 66,137,93,214,14 93,141,118,213,14 465,103,480,161,14 108,110,132,176,14 56,109,75,188,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005311.jpg 218,66,250,110,14 239,51,305,112,14 1,1,194,205,14 261,7,429,212,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002178.jpg 100,136,460,320,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007939.jpg 101,256,333,473,9
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007919.jpg 167,114,448,280,12 266,49,323,208,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007958.jpg 162,101,330,306,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004837.jpg 273,138,500,320,17 67,166,253,357,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004997.jpg 123,59,456,244,18 40,124,112,208,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007480.jpg 95,11,468,303,5 82,93,139,269,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005144.jpg 1,12,331,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003061.jpg 286,11,446,220,8 93,25,259,158,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007831.jpg 49,227,180,412,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007671.jpg 80,55,354,487,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002546.jpg 196,17,440,375,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009347.jpg 249,14,436,292,3 93,134,198,290,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009249.jpg 219,153,290,217,19 213,287,403,375,8 9,284,214,374,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003808.jpg 45,3,466,328,19
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004828.jpg 1,150,32,278,14 61,152,209,399,14 245,111,352,341,14 412,187,480,282,6 139,171,446,391,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005063.jpg 114,360,192,473,9 35,345,92,489,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009316.jpg 288,87,500,375,14 213,139,353,372,14 160,117,252,370,14 4,60,167,374,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003891.jpg 306,247,332,339,14 251,252,298,313,14 146,234,182,284,14 69,249,118,352,14 29,231,55,298,14 51,231,76,298,14 3,314,331,500,6 5,284,332,395,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007637.jpg 93,145,345,305,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005195.jpg 65,235,93,305,4 369,112,493,303,14 227,99,332,209,14 1,105,130,252,14 12,199,416,333,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007718.jpg 56,174,327,361,14 95,124,496,257,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009762.jpg 156,176,174,216,14 37,152,153,206,5
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003965.jpg 236,105,381,326,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009129.jpg 80,67,480,326,17
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007084.jpg 157,109,389,315,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006163.jpg 79,89,305,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001421.jpg 189,1,372,438,14 116,181,374,476,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002547.jpg 195,142,272,284,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006254.jpg 61,102,366,207,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002691.jpg 1,232,192,365,11 64,27,478,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007980.jpg 187,43,298,220,3 323,193,384,218,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002290.jpg 150,136,475,436,13 157,13,421,343,14 146,70,173,122,14 115,64,135,124,14 98,78,125,124,14 67,66,89,127,14 38,76,72,128,14 186,70,202,123,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000826.jpg 11,32,436,445,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000889.jpg 37,287,186,486,15 181,362,302,458,15 188,2,327,394,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000332.jpg 54,50,285,262,12
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002879.jpg 7,65,500,375,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008867.jpg 110,178,428,271,12 187,96,320,262,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003935.jpg 98,55,347,340,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004960.jpg 3,3,423,499,15 346,245,426,461,15 1,290,110,462,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003817.jpg 5,3,431,333,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008815.jpg 2,30,230,364,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003651.jpg 80,6,480,360,18 340,83,385,179,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008960.jpg 440,183,486,270,14 337,199,362,272,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007876.jpg 226,181,316,308,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003363.jpg 2,233,314,479,6 300,259,334,291,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004014.jpg 1,75,374,500,8 3,48,303,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007696.jpg 1,116,349,223,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000710.jpg 143,177,225,270,7 188,182,303,464,8 95,129,136,249,15
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006071.jpg 108,66,353,293,13 387,49,426,216,14 2,2,69,249,14 311,44,376,219,14 75,58,119,177,14 419,2,500,315,14 157,73,192,128,14 139,102,152,153,14 374,84,394,126,14 269,28,312,115,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005531.jpg 169,210,257,359,8 192,179,262,326,8 248,216,356,360,8 163,51,218,186,15 106,195,375,348,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002513.jpg 253,243,269,259,0 247,227,263,243,0 225,206,241,223,0 219,191,234,206,0 207,219,223,238,0 212,238,228,256,0 188,229,203,250,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003675.jpg 185,133,271,227,2 144,110,242,163,2
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008122.jpg 58,42,227,330,14 274,61,406,206,14 4,209,115,296,10 48,199,109,332,8
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/000044.jpg 1,1,370,330,8 99,101,312,213,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005358.jpg 231,131,278,155,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/008355.jpg 174,85,500,333,7
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001324.jpg 57,44,156,333,11 206,35,403,315,11
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002659.jpg 161,8,231,310,3
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/007745.jpg 26,69,51,177,14 43,39,487,337,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009205.jpg 1,47,491,251,6 1,128,311,329,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001194.jpg 72,180,281,340,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003299.jpg 2,3,499,260,0
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/003678.jpg 237,70,334,143,19 237,88,490,326,14 1,1,157,257,14 65,236,103,332,4
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/006536.jpg 28,194,334,500,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002064.jpg 20,61,472,331,1
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004253.jpg 141,192,252,337,8 181,163,267,291,8 274,182,352,308,8 167,179,348,332,10
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/009289.jpg 82,15,427,333,18
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/005486.jpg 41,71,454,322,6 252,69,500,195,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/004265.jpg 253,139,402,276,14
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/002497.jpg 193,159,393,280,6
+/home/edison/ame_eff/shuffle/VOCdevkit/VOC2007/JPEGImages/001450.jpg 183,70,330,253,14 185,110,336,251,13
